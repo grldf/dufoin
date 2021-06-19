@@ -9,7 +9,7 @@
     <h1>Du foin sur les planches <br /> non officiel</h1>
     <p>
       Ce site a été fait car l'officiel du festival présente seulement des
-      images et c'est pas top...Cette page est certainement pas parfaite (fait
+      images et c'est pas top...Cette page n'est certainement pas parfaite (faite
       en 24h) mais j'espère que vous trouverez des choses pratiques et
       intéressantes.
     </p>
@@ -25,7 +25,7 @@
     />
     <Lieu
       title="LANCEMENT DU FOIN SUR LES PLANCHES 2021 + CONCERT"
-      position="Le Chapelard - la Chapelle de Madore"
+      position="Le Chapelard - la Chapelle de Mardore"
       reservation={"Bah non..."}
     />
   </div>
@@ -34,10 +34,10 @@
       hour={"20H"}
       hourTitle={"Concert Laniakela chanson française"}
       underTitle={"Guitare-chant: Corentin Roffat - Basse et violoncelle: Gaëlle Hostein - Percussions: Philippe Berthelon"}
-      localisation={"Le Chapelard - la Chapelle de Madore"}
+      localisation={"Le Chapelard - la Chapelle de Mardore"}
       infos={"Infos: Buvette sur place"}
       price={"Gratuit"}
-      presentation={"Ce groupe circuit-court du Beaujolais vert se distingue par son engagement et sa poésie. Les compositions toutes personnelles de l'auteur compositeur interprète Corentin font là toute l'originalité et la profondeur de ce groupe très prometteur."}
+      presentation={"Ce groupe circuit-court du Beaujolais vert se distingue par son engagement et sa poésie. Les compositions toutes personnelles de l'auteur-compositeur-interprète Corentin font là toute l'originalité et la profondeur de ce groupe très prometteur."}
     />
   </div>
   <!-- --------------------------------------------samedi 19 ---------------------------------------- -->
@@ -46,7 +46,7 @@
     <Date day={"Samedi"} numberOfDay={"19"} month={"Juin"} year={"2021"} />
     <Lieu
       title="JAZZ A LA FERME"
-      position="Madore et la Chapelle de Madore"
+      position="Mardore et la Chapelle de Mardore"
       reservation={"<a href='tel:+330625055035'>0625055035</a>"}
     />
   </div>
@@ -55,7 +55,7 @@
       hour={"11H30"}
       hourTitle={"De Brassens da Bahia au Samba français"}
       underTitle={"Bruno-Michel Abati: Voix/Guitare - Manuel Fillat: Saxophone"}
-      localisation={"Au lieu dit: Les Entremains de Mardore Gîte rurale de Philippe Crouzet"}
+      localisation={"Au lieu dit: Les Entremains de Mardore Gîte rural de Philippe Crouzet"}
       infos={"Infos: Buvette et petite restauration sur place"}
       price={"Au chapeau"}
       url={"https://www.youtube.com/embed/ku-rqt2GOvs"}
@@ -80,7 +80,7 @@
     />
     <Spectacle
       hour={"20H30"}
-      hourTitle={"Coktail New Orleans et repas swing"}
+      hourTitle={"Cocktail New Orleans et repas swing"}
       underTitle={""}
       localisation={"Les terrasses du Chapelard"}
       price={"Prix 13€/10€ adhérents sur réservation"}
@@ -105,11 +105,11 @@
     <Spectacle
       hour={"19H30"}
       hourTitle={"Covid au Château"}
-      underTitle={"3 zooms théatraux - Création atelier théâtre adulte"}
+      underTitle={"3 zooms théâtraux - Création atelier théâtre adulte"}
       localisation={"MJC d'Amplepuis"}
       price={"Prix 5€ pour la soirée sur réservation"}
       infos={"Infos: Buvette sur place"}
-      presentation={"L'action se passe en 2020/2021 à Amplepuis dans le beaujolais Vert en période de pandémie. Les 3 soeurs De Montibert gèrent difficilement le patrimoine de leur château en péril. Le papa à l'Ehpad, Héloïse tient en acrobate la gestion d'un batiment historique qui s'écroule malgré l'aide des anciens domestiques Clara et Gégé.<br/> Les deux autres soeursVéra et Graziella vivent égoistement et désintéressées de leur patrimoine aux USA et à Dubaï. La mort du père pour raison Covid et la mission patrimoine de Stéphan Vern vont révolutionner l'avenir de cette famille divisée et de leur région...<br/>\"Covid au château\" se jouera en entier en octobre 2021"}
+      presentation={"L'action se passe en 2020/2021 à Amplepuis dans le Beaujolais Vert en période de pandémie. Les 3 soeurs De Montibert gèrent difficilement le patrimoine de leur château en péril. Le papa à l'Ehpad, Héloïse tient en acrobate la gestion d'un batiment historique qui s'écroule malgré l'aide des anciens domestiques Clara et Gégé.<br/> Les deux autres soeurs Véra et Graziella vivent égoïstement et désintéressées de leur patrimoine aux USA et à Dubaï. La mort du père pour raison Covid et la mission patrimoine de Stéphan Vern vont révolutionner l'avenir de cette famille divisée et de leur région...<br/>\"Covid au château\" se jouera en entier en octobre 2021"}
     />
     <Spectacle
       hour={"20H"}
@@ -118,7 +118,7 @@
       localisation={"MJC d'Amplepuis"}
       price={"Prix 5€ pour la soirée sur réservation"}
       infos={"Infos: Buvette sur place"}
-      presentation={'Une communauté de jeunes reclus dans une étrange prison...Ce sont des mythos, excentrique, psychopathes?<br/>Une prêtresse "big sister BIGDATARONA" les surveille sur écran!<br />La syndémie mondiale fait tomber le 4ème mur de cette prison mentale...<br />Vont-ils pouvoir ré-inventer un Après...Monde?<br />Un questionnement urgent sur notre monde d\'après!'}
+      presentation={'Une communauté de jeunes reclus dans une étrange prison...Ce sont des mythos, excentriques, psychopathes?<br/>Une prêtresse "big sister BIGDATARONA" les surveille sur écran!<br />La syndémie mondiale fait tomber le 4ème mur de cette prison mentale...<br />Vont-ils pouvoir ré-inventer un Après...Monde?<br />Un questionnement urgent sur notre monde d\'après!'}
     />
     <Spectacle
       hour={"21H30 à 22H15"}
@@ -143,7 +143,7 @@
     <Spectacle
       hour={"11H"}
       hourTitle={"Recuptou laploubelle"}
-      underTitle={"Compagnie Rien est perdu"}
+      underTitle={"Compagnie Rien n'est perdu"}
       localisation={"École (spectacle famille)"}
       price={"Prix 2€"}
       infos={""}
@@ -156,7 +156,7 @@
       localisation={"Le Chapelard (apéro concert)"}
       price={"Au chapeau"}
       infos={""}
-      presentation={'Des textes qui ont du flair et des musiques d\'une nouvelle ère (sons urbains, chansons, pop, électro, hip hop, latino...) Ces 2 jeunes artistes touchent à tout parlent de leur époque comme leur derniier morceau "Les treize confinement"...'}
+      presentation={'Des textes qui ont du flair et des musiques d\'une nouvelle ère (sons urbains, chansons, pop, électro, hip hop, latino...) Ces 2 jeunes artistes touche à tout parlent de leur époque comme leur dernier morceau "Les treize confinements"...'}
       url={"https://www.youtube.com/embed/hJCrOz_pjfw"}
     />
     <Spectacle
@@ -170,12 +170,12 @@
     />
     <Spectacle
       hour={"14H à 15H"}
-      hourTitle={"Podcats sonore Frères"}
+      hourTitle={"Podcast sonore Frères"}
       underTitle={"Documentaire radio"}
       localisation={"École"}
       price={"Gratuit"}
       infos={"Salle de classe d'école"}
-      presentation={"David et Rémi sont jumeaux et infirmes moteur cérébral. Ils ne devaient jamais parler ni marcher. À 34 ans, ils nous parlent dans un documentaire réalisé par leur frère Nicolas François et sa compagne Aurélia Balboni.<br />Frère à reçu une mention méritée de jury des Phonugria Nova Awards 2020. Un témoignage magnifique, dans l'intimité d'une famille qui défie les lois de l'ordinaire. Le couple raconte...<br /> À réécouter en podcast: \"Frères\", le combat magnifique d'une famille face à l'infirmité moteur cérébrale (télérama.fr)<br />Rencontre avec David et Rémi et leurs parents."}
+      presentation={"David et Rémi sont jumeaux et infirmes moteur cérébral. Ils ne devaient jamais parler ni marcher. À 34 ans, ils nous parlent dans un documentaire réalisé par leur frère Nicolas François et sa compagne Aurélia Balboni.<br />Frère a reçu une mention méritée du jury des Phonugria Nova Awards 2020. Un témoignage magnifique, dans l'intimité d'une famille qui défie les lois de l'ordinaire. Le couple raconte...<br /> À réécouter en podcast: \"Frères\", le combat magnifique d'une famille face à l'infirmité moteur cérébrale (télérama.fr)<br />Rencontre avec David et Rémi et leurs parents."}
     />
     <Spectacle
       hour={"14H à 15H"}
@@ -188,17 +188,17 @@
     />
     <Spectacle
       hour={"15H à 15H30"}
-      hourTitle={"Jeux de piste: la route des vins"}
+      hourTitle={"Jeu de piste: la route des vins"}
       underTitle={"Bistrot culturel"}
       localisation={"Le Chapelard"}
       price={"Gratuit"}
       infos={""}
-      presentation={"Programmé depuis 2012 dans la meilleure des ambiances des repas-spectacles très prisés. Au 50ème spectacles, certains farfelus de Courant d'Art ont eu la bonne idée d'enterrer dans le village 50 bouteilles offertes par les adhérents et proches.<br />Par un jeu d'énigmes, vous allez découvrir en 30 minutes et 500 mètres de marche ce village si particulier La Chapelle De Mardore et ces 50 bouiteilles à boirte tout le week-end de façon partagée..."}
+      presentation={"Programmé depuis 2012 dans la meilleure des ambiances des repas-spectacles très prisés. Au 50ème spectacle, certains farfelus de Courant d'Art ont eu la bonne idée d'enterrer dans le village 50 bouteilles offertes par les adhérents et proches.<br />Par un jeu d'énigmes, vous allez découvrir en 30 minutes et 500 mètres de marche ce village si particulier La Chapelle De Mardore et ces 50 bouteilles à boire tout le week-end de façon partagée..."}
     />
     <Spectacle
       hour={"15H30 à 18H"}
-      hourTitle={"Animations de rue dans tous le village"}
-      underTitle={"Les Zurbamateurs / La fleur des mots / Les bêtes de foires "}
+      hourTitle={"Animations de rue dans tout le village"}
+      underTitle={"Les Zurbamateurs / La fleur des mots / Les bêtes de foire "}
       localisation={"La rue"}
       price={"Gratuit et au chapeau"}
       infos={""}
@@ -212,7 +212,7 @@
       localisation={"Place du village"}
       price={"Gratuit"}
       infos={"Petite restauration"}
-      presentation={"Les folk furieuses: musique trd relookée. Deux filles, deux accordéons diatoniques, deux voix, quatre mains. deux douces tarées droguées dure à la musique trad! (source leur Facebook)  "}
+      presentation={"Les folk furieuses: musique trad relookée. Deux filles, deux accordéons diatoniques, deux voix, quatre mains. Deux douces tarées droguées dure à la musique trad! (source: leur Facebook)"}
       url={"https://www.youtube.com/embed/F3YP4y4NPNQ"}
     />
   </div>
@@ -234,7 +234,7 @@
       localisation={"MJC d'Amplepuis"}
       price={"Prix 6€ sur réservation"}
       infos={"Infos: Buvette"}
-      presentation={"Olivier Ponsot est un conteur déjanté et décoiffé / Théâtre monté sur roulement à billes.<br /> Attention! Cet homme est dangereux: il est entré dans le conte par effraction.<br />Le début de ces histoires: il ne les connaît pas bien. La fin, il n'en est pas sûr. Et pour le milieu, il vous fait confiance...<br /><br />Il enchaîne les petites histoires puis d'un coup nous suspend et nous émeut dans un récit inattendu qu'il improvise spécialement pour son public du moment.<br /><br />Valise à la main, cheveux peignés par tous les courants d'airt du monde, ce balladin du 21ème siècle lance un nouvel art: conteur funambule sur corde vocale!"}
+      presentation={"Olivier Ponsot est un conteur déjanté et décoiffé / Théâtre monté sur roulement à billes.<br /> Attention! Cet homme est dangereux: il est entré dans le conte par effraction.<br />Le début de ses histoires: il ne les connaît pas bien. La fin, il n'en est pas sûr. Et pour le milieu, il vous fait confiance...<br /><br />Il enchaîne les petites histoires puis d'un coup nous suspend et nous émeut dans un récit inattendu qu'il improvise spécialement pour son public du moment.<br /><br />Valise à la main, cheveux peignés par tous les courants d'air du monde, ce balladin du 21ème siècle lance un nouvel art: conteur funambule sur corde vocale!"}
     />
   </div>
   <!-- --------------------------------------------Vendredi 2 Juillet ---------------------------------------- -->
@@ -295,7 +295,7 @@
       localisation={"Centre équestre du lac des sapins (entrée côté digue)"}
       price={"Prix 4 spectacles 15€ / Didier Super 10€ sur réservation"}
       infos={"Infos: Buvette et petite restauration"}
-      presentation={"Un groupe circuit court et écologique dans la lignée Fréro Delavega ou Tryo."}
+      presentation={"Un groupe circuit court et écologique dans la lignée de Fréro Delavega ou Tryo."}
     />
     <Spectacle
       hour={"16H30"}
@@ -314,7 +314,7 @@
       localisation={"Centre équestre du lac des sapins (entrée côté digue)"}
       price={"Prix 4 spectacles 15€ / Didier Super 10€ sur réservation"}
       infos={"Infos: Buvette et petite restauration"}
-      presentation={"Références Nirvana, Royal Blood, Radiohead, Rage Against the Machine, Nothing but Thieves, Green Day et sont agrémentés d'influences métal, gospel, rock altenatif, punk, blues, rock progressif et électro. Tout est dit avec leurs nouvelles compos croonés par leur chanteuse Maud."}
+      presentation={"Références Nirvana, Royal Blood, Radiohead, Rage Against the Machine, Nothing but Thieves, Green Day et sont agrémentés d'influences métal, gospel, rock altenatif, punk, blues, rock progressif et électro. Tout est dit avec leurs nouvelles compos croonées par leur chanteuse Maud."}
       url={"https://www.youtube.com/embed/EMn6Fn9Esmo"}
     />
     <Spectacle
